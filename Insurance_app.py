@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
-import seaborn as sns
 
 st.title("Insurance Pricing App")
 st.write("From the insurance data, we built a machine learning model for pricing insurance claims.")
